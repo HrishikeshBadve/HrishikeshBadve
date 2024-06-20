@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Badve</h1>
-<h3 align="center">Versatile Software Developer | Python, C++ & Java Enthusiast | SQL Database Expert</h3>
+<h3 align="center">Versatile Software Developer | Python, C++ & JavaScript Enthusiast | SQL Database Expert</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/HrishikeshBadve/HrishikeshBadve/assets/112002709/09209507-f9dd-4b5d-822b-1498969a10d8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshbadve&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshbadve" /> </p>
 
 - 🌱 I’m currently learning **Generative AI, Cloud Platforms**
 
-- 💬 Ask me about **Algorithms, Database**
+- 💬 Ask me about **Algorithms, Python Programming and Database**
 
 - 📫 How to reach me **hrishikesh.badve13@gmail.com**
 
